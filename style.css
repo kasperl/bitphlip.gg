@@ -2,6 +2,7 @@ body {
   font-family: Tahoma, sans-serif;
   background-color: black;
   background-attachment: fixed;
+  background-size: cover;
   background-position: center center;
   background-image: url("./images/nuke.png");
   background-repeat: no-repeat;
